@@ -1,0 +1,22 @@
+{
+  "mappings": [
+    "/content/wknd/language-masters/en:/",
+    "/content/wknd/language-masters/en/:/en/",
+    "/content/wknd/language-masters/fr/:/fr/",
+    "/content/wknd/language-masters/fr:/fr",
+    "/content/wknd/language-masters/es/:/es/",
+    "/content/wknd/language-masters/es:/es",
+    "/content/wknd/language-masters/ja/:/ja/",
+    "/content/wknd/language-masters/ja:/ja",
+    "/content/wknd/language-masters/de/:/de/",
+    "/content/wknd/language-masters/de:/de",
+    "/content/wknd/configuration:/.helix/config.json",
+    "/content/wknd/metadata:/metadata.json",
+    "/content/wknd/redirects:/redirects.json",
+    "/content/wknd/placeholders:/placeholders.json"
+  ],
+  "includes": [
+    "/content/wknd/",
+    "/content/dam/wknd/"
+  ]
+}
